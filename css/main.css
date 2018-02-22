@@ -18,15 +18,14 @@ h1 {
 }
 
 div.pc {
-	zoom: 10%;
-	transform: rotate(180deg);
+	zoom: 200%;
 	text-align: center;
 }
 
 h2 {
 	color: white;
 	text-align: center;
-	margin: 5px 5px;
+	padding: 2.5%;
 }
 
 div.gown {
@@ -36,4 +35,8 @@ div.gown {
 
 a {
 	color: #608b32;
+}
+
+div.teach {
+	padding-top: 25%;
 }
