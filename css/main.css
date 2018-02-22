@@ -1,2 +1,39 @@
+* {
+	font-family: 'Kavivanar', cursive;
+}
 
-ayyyy
+body {
+	background-color: #608b32;
+}
+
+p {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 25%;
+}
+
+div.pc {
+	zoom: 10%;
+	transform: rotate(180deg);
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	margin: 5px 5px;
+}
+
+div.gown {
+	zoom: 50%;
+	text-align: center;
+}
+
+a {
+	color: #608b32;
+}
